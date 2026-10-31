@@ -1,0 +1,5 @@
+name=Nmap Network Mapper Download Reference
+version=7.993
+source=https://nmap.org/download.html
+maintainer=Nmap Tools Lab
+distribution=official-source-link
